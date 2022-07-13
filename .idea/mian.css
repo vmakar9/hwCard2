@@ -1,0 +1,52 @@
+.cards{
+    height: 250px;
+    width: 250px;
+    background: white;
+    box-sizing: border-box;
+    border:maroon 1px solid;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 20px;
+}
+.button-box > a {
+    display: block;
+    width: 150px;
+    height: 50px;
+    background: white;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: center;
+    color: #000;
+    border:maroon 1px solid;
+    text-decoration: none;
+    margin-left: 45px;
+}
+.mas{
+    display: flex;
+    justify-content: center;
+}
+.fa-display{
+    font-size: 40px;
+    background: white;
+    position: relative;
+    left: center;
+    right: center;
+    top: -25px;
+}
+.fa-mug-saucer{
+    font-size: 40px;
+    background: white;
+    position: relative;
+    left: center;
+    right: center;
+    top: -25px;
+}
+.fa-key{
+    font-size: 40px;
+    background: white;
+    position: relative;
+    left: center;
+    right: center;
+    top: -25px;
+}
